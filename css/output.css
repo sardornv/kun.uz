@@ -1199,6 +1199,12 @@
   .left-10 {
     left: calc(var(--spacing) * 10);
   }
+  .left-15 {
+    left: calc(var(--spacing) * 15);
+  }
+  .left-20 {
+    left: calc(var(--spacing) * 20);
+  }
   .left-22 {
     left: calc(var(--spacing) * 22);
   }
